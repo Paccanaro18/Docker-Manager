@@ -211,6 +211,9 @@ export SERVER_PORT=8081
 mvn spring-boot:run
 ```
 
+
+[![CI](https://github.com/Paccanaro18/Docker-Manager/actions/workflows/build.yml/badge.svg)](https://github.com/Paccanaro18/Docker-Manager/actions/workflows/build.yml)
+
 ##  Referências
 
 - [Spring Boot Docs](https://spring.io/projects/spring-boot)
