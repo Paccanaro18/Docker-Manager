@@ -187,7 +187,7 @@ Todas as endpoints retornam JSON.
 ]
 ```
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Erro: `Cannot connect to Docker daemon`
 ```bash
