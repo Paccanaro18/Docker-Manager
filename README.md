@@ -3,7 +3,7 @@
 API REST para gerenciar containers e imagens Docker. Backend pronto para integrar com um dashboard.
 
 ##  Funcionalidades
-
+ 
 - ✅ Listar todos os containers (rodando ou inativos)
 - ✅ Iniciar container
 - ✅ Parar container
